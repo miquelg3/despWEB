@@ -31,5 +31,14 @@ li a:hover:not(.active) {
 }
   
 .active {
-    background-color: #07ce49;
+    background-color: rgb(0, 162, 255);
+}
+
+footer {
+    background-color: #333;
+    position: absolute;
+    bottom: 0;
+    width: 99%;
+    height: 40px;
+    color: white;
 }
